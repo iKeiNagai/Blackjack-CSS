@@ -14,12 +14,12 @@
 
 @keyframes moveCard1_p1{
     0%{transform: translateY(0%);}
-    100%{transform: translate(50%,130%);}
+    100%{transform: translate(50%,200%);}
  }
 
 @keyframes moveCard2_p1{
     0%{transform: translateY(0%);}
-    100%{transform: translate(60%,130%);}
+    100%{transform: translate(60%,200%);}
 }
 
 #p2_card1{
@@ -36,12 +36,12 @@
 }
 @keyframes moveCard1_p2{
     0%{transform: translateY(0%);}
-    100%{transform: translate(100%,90%);}
+    100%{transform: translate(110%,90%);}
 }
 
 @keyframes moveCard2_p2{
     0%{transform: translateY(0%);}
-    100%{transform: translate(110%,90%);}
+    100%{transform: translate(120%,90%);}
 }
 
 #p3_card1{
@@ -58,12 +58,12 @@
 }
 @keyframes moveCard1_p3{
     0%{transform: translateY(0%);}
-    100%{transform: translate(-20%,90%);}
+    100%{transform: translate(-30%,90%);}
 }
 
 @keyframes moveCard2_p3{
     0%{transform: translateY(0%);}
-    100%{transform: translate(-10%,90%);}
+    100%{transform: translate(-20%,90%);}
 }
 
 #pd_card1{

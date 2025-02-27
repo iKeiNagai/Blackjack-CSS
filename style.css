@@ -116,7 +116,7 @@ img{
 
 .you {
   position: absolute;
-  top: 68%;
+  top: 93%;
   left: 55%;
   transform: translateX(-50%);
   font-size: 20px;
@@ -126,7 +126,7 @@ img{
 .joe {
   position: absolute;
   top: 54%;
-  left: 80%;
+  left: 85%;
   transform: translateX(-50%);
   font-size: 20px;
   color: white;
@@ -135,7 +135,7 @@ img{
 .bill {
   position: absolute;
   top: 54%;
-  left: 20%;
+  left: 13%;
   transform: translateX(-50%);
   font-size: 20px;
   color: white;
