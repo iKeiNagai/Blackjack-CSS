@@ -140,3 +140,21 @@ img{
   font-size: 20px;
   color: white;
 }
+
+.blue-chip{
+  position: absolute;
+  top: 40%;
+  left: 33%;
+}
+
+.black-chip{
+  position: absolute;
+  top: 40%;
+  left: 60%;
+}
+
+.red-chip{
+  position: absolute;
+  top: 55%;
+  left: 50%;
+}
