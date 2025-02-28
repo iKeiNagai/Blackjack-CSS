@@ -5,7 +5,7 @@ body{
 }
 
 header{
-    margin-top: 15%;
+    margin-top: 10%;
 }
 
 .paradise{
@@ -17,6 +17,24 @@ header{
     background-color: #F5F5DC;
     margin: 10%;
     padding: 5%;
+    border: 13px;
+    border-style: outset;
+}
+
+.about-us{
+    border: 13px;
+    border-style: outset;
+    background-color: #F5F5DC;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin: 10%;
+    padding: 5%;
+}
+
+.about-us h2{
+    margin-top: 10%;
 }
 
 a{
@@ -69,4 +87,16 @@ h2{
 
 h4{
   margin: 40px;  
+}
+
+button{
+    border: none;
+    background-color: #35654d;
+    font-size: large;
+    cursor: pointer;
+}
+
+button:hover{
+    background-color: #35654d;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
 }
